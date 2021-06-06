@@ -20,4 +20,6 @@ design:
   columns: "1"
   view: 3
   flip_alt_rows: false
+  background:
+    color: "#e70000"
 ---
